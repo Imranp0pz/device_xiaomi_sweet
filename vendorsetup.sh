@@ -11,3 +11,4 @@ git clone --depth=1 -b tiramisu https://github.com/ProjectElixir-Devices/device_
 git clone --depth=1 -b tiramisu https://github.com/ProjectElixir-Devices/vendor_xiaomi_common_sweet.git vendor/xiaomi
 git clone --depth=1 https://github.com/LineageOS/android_hardware_lineage_compat.git hardware/lineage/compat
 git clone --depth=1  -b thirteen https://gitlab.com/basamaryan/vendor_xiaomi_sweet-miuicamera.git vendor/xiaomi/sweet-miuicamera
+git clone --depth=1 -b Tiramisu https://github.com/Project-Elixir/hardware_xiaomi.git hardware/xiaomi
